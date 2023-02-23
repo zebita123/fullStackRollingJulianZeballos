@@ -1,0 +1,14 @@
+html{background-color: goldenrod;}
+nav{ 
+    right: 50%;
+}
+
+.comarca{ 
+    width: 50px;
+    right: 20%;
+}
+
+.contenedor{ 
+    display: flex;
+    justify-content: left;
+}
